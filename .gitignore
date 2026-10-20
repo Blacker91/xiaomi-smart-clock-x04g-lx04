@@ -1,0 +1,17 @@
+# Zalohy, dumpy a firmware sem NIKDY nepatri.
+# Obsahuji seriove cislo, MAC adresy a mi.did, firmware se nesmi sirit.
+*.bin
+*.img
+*.tar
+*.zip
+*.7z
+*.md5
+*.auth
+*.exe
+*.dll
+scatter*.txt
+*_scatter.txt
+Image*/
+FlashTool/
+zaloha*/
+budik_zaloha/
